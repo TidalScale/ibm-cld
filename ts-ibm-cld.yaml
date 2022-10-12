@@ -4,7 +4,7 @@ version: 04.01.00-996
 revision: wr-06476b87-hk-308e38fa
 kind: ova
 image:
-  url: https://github.com/TidalScale/ibm-cld/releases/download/4.x/TS-IBM-CLD-221011.ova
+  url: https://github.com/TidalScale/ibm-cld/releases/download/4.1.0/TS-IBM-CLD-221011.ova
   sha256: 9e289e90568fe9fa7fea2164129d7e876411bba31ada5202039f3bf015109e88
 eula_url: https://www.tidalscale.com
 eula_label: 
