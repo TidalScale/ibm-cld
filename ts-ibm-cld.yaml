@@ -1,0 +1,21 @@
+app_id: tidalscale-v04.01.00-996-wr-06476b87-hk-308e38fa
+title: TidalScale v4.1.0
+version: 04.01.00-996
+revision: wr-06476b87-hk-308e38fa
+kind: ova
+image:
+  url: https://github.com/TidalScale/ibm-cld/releases/download/4.x/TS-IBM-CLD-221011.ova
+  sha256: 9e289e90568fe9fa7fea2164129d7e876411bba31ada5202039f3bf015109e88
+eula_url: https://www.tidalscale.com
+eula_label: 
+categories:
+logo: https://www.tidalscale.com/wp-content/uploads/2020/04/cropped-Logo-for-upper-navigation-1-175x53.png
+description: "OVA image to deploy TidalScale."
+readme: OVA Template for IBM Cloud Deployment.
+links:
+- id: docs_index
+    title: Getting started
+    url: https://docs.tidalscale.com/
+- id: support_index
+    title: Product Support
+    url: https://tidalscale.zendesk.com/
